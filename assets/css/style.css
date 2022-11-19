@@ -1,9 +1,12 @@
 /*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
+.spaceItem{
+padding: 4px;
+}
 
 .image {
-  width: 35px;
+  width: 20px;
   height: auto;
 }
 .github{
