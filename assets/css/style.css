@@ -4,7 +4,12 @@
 .spaceItem{
 padding: 4px;
 }
+.website-counter {
 
+  justify-content: center;
+  font-size: large;
+  color: var(--vegas-gold);
+}
 .image {
   width: 18px;
   height: auto;
